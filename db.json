@@ -17,6 +17,12 @@
       "name": "Handle 3",
       "usable_name": "handle_3",
       "price":400 
+    },
+    {
+      "id": 4,
+      "name": "Handle 4",
+      "usable_name": "handle_4",
+      "price":400 
     }
   ]
 }
