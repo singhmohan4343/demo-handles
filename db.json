@@ -1,8 +1,22 @@
 {
-  "posts": [
+  "handles": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Handle 1",
+      "usable_name": "handle_1",
+      "price":200 
+    },
+    {
+      "id": 2,
+      "name": "Handle 2",
+      "usable_name": "handle_2",
+      "price":300 
+    },
+    {
+      "id": 3,
+      "name": "Handle 3",
+      "usable_name": "handle_3",
+      "price":400 
     }
   ],
   "profile": {
